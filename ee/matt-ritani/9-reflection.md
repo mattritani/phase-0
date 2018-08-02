@@ -9,3 +9,6 @@ I think spending more time playing an mananging my frustration when I get blocke
  What learnings and habits have I developed that will help me in Bootcamp?
 
  Acknowledging the feeling of anxiety and taking steps to manage it
+
+
+Likewise sprint 9
